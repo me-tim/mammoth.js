@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "argparse": "~1.0.3",
-    "bluebird": "~3.4.0",
+    "bluebird": "~3.5.0",
     "dingbat-to-unicode": "^1.0.1",
     "jszip": "~2.5.0",
     "lop": "^0.4.1",
